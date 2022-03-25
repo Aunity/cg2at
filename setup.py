@@ -1,4 +1,5 @@
 from setuptools import setup, find_packages
+install_requires = ['numpy','scipy','pathlib']
 setup(
     name = 'cg2at',
     version='2021.8.7',
