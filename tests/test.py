@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 import sys, os
-sys.path.append(os.path.dirname(os.path.realpath(__file__))+'/../database/bin/')
+sys.path.append(os.path.dirname(os.path.realpath(__file__))+'/../cg2at/bin/')
 import unittest
 from unittest.mock import patch
 from unittest import mock
